@@ -29,15 +29,15 @@ img{
 }
 
 .header{
-display: flex;
-justify-content:space-between ;
-align-items: center;
-padding: 20px;
-max-width: 1200px;
-margin-left: auto;
-margin-right: auto;
-flex-wrap: wrap;
-gap: 20px;
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    padding: 20px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+    gap: 20px;
 }
 
 .header-menu{
@@ -64,10 +64,10 @@ gap: 20px;
     gap: 0px 40px;
     box-sizing: border-box;
     max-width: 1200px;
-padding-left: 20px;
-padding-right: 20px;
-margin-left: auto;
-margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
@@ -86,18 +86,18 @@ margin-right: auto;
 }
 
 .introducao-conteudo img{
-height: 100%;
-object-fit: contain;
-margin-bottom: -120px;
+    height: 100%;
+    object-fit: contain;
+    margin-bottom: -120px;
 }
 .introducao-imagem{
-margin-bottom: -120px;
+    margin-bottom: -120px;
 }
 
 .introducao h1{
-margin-bottom: 32px;
-font-size: 64px;
-line-height: 1.25;
+    margin-bottom: 32px;
+    font-size: 64px;
+    line-height: 1.25;
 
 }
 .introducao h1 span{
@@ -108,10 +108,10 @@ line-height: 1.25;
 }
 
 .introducao p{
-margin-bottom: 20px;
-font-size: 24px;
-line-height: 1;
-color: #b2b2b2;
+    margin-bottom: 20px;
+    font-size: 24px;
+    line-height: 1;
+    color: #b2b2b2;
 }
 
 .introducao a{
