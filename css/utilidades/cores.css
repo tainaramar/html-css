@@ -1,0 +1,21 @@
+
+:root{
+    --cor-0: #ffff;
+    --cor-5: #b2b2b2;
+    --cor-11: #111111;
+    --cor-12: #000000;
+    --cor-p1: #ffbb00;
+}
+
+
+.cor-branco{
+    color: var(--cor-0);
+}
+
+.cor-cinza{
+    color: var(--cor-5);
+}
+
+.cor-p1{
+    color: var(--cor-p1);
+}

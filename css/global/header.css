@@ -8,6 +8,12 @@ img{
     display: block;
 }
 
+img [src$=".jpg"]{
+    border-radius: 4px;
+
+}
+
+
 .header-bg{
     background-color: #000;
 }
@@ -16,12 +22,11 @@ img{
     display: flex;
     justify-content:space-between ;
     align-items: center;
-    padding: 20px;
     max-width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
     flex-wrap: wrap;
     gap: 20px;
+    padding-top: 20xp;
+    padding-bottom: 20px;
 }
 
 .header-menu{
