@@ -1,6 +1,10 @@
 @import "./global/header.css";
 @import "./global/global.css";
+
 @import "./home/introducao.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
 
 
 @import "./utilidades/components.css";
@@ -9,3 +13,4 @@
 @import "./utilidades/cores.css";
 
 @import "./bicicletas/bicicleta.css";
+@import "./seguros/seguros.css";
